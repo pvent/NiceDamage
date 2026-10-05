@@ -1,0 +1,8 @@
+## Interface: 20503
+## Title: NiceDamage
+## Notes: Custom combat text damage font for TBC Classic.
+## Author: Modernized
+## Version: 2.5.3
+## SavedVariables: NiceDamageDB
+
+NiceDamage.lua
