@@ -5,4 +5,4 @@
 * **Known Issues & Gotchas:**
   * **Client Relog Requirement:** Changing font files or base font assets requires logging out completely to the character selection screen. A simple `/reload` will not apply 3D font asset modifications due to engine limitations.
   * **UI Overhaul Conflicts:** Comprehensive UI suites like ElvUI often override combat fonts by default. You must either disable ElvUI's combat text font module or explicitly point ElvUI to use the font registered by NiceDamage.
-![Uploading image.png…]()
+<img width="462" height="439" alt="image" src="https://github.com/user-attachments/assets/181ff71a-9c95-47e6-989e-b408a3c6d78f" />
